@@ -2,10 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\YouTube\GameEngine\GameEngine\bin\Debug-x64\GameEngine\GameEngine.dll</FullPath>
+      <FullPath>D:\YouTube\GameEngine\GameEngine\GameEngine\bin\Debug-x64\GameEngine\GameEngine.dll</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>D:\YouTube\GameEngine\GameEngine\bin\Debug-x64\Sandbox\Sandbox.exe</FullPath>
+      <FullPath>D:\YouTube\GameEngine\GameEngine\GameEngine\bin\Debug-x64\Sandbox\Sandbox.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

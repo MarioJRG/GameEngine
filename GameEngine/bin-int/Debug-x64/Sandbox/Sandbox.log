@@ -1,2 +1,6 @@
 ﻿  main.cpp
-  Sandbox.vcxproj -> D:\YouTube\GameEngine\GameEngine\bin\Debug-x64\Sandbox\Sandbox.exe
+D:\YouTube\GameEngine\GameEngine\GameEngine\scr\GameEngine\Log.h(18,42): warning C4251: 'GameEngine::Log::CoreLoger': class 'std::shared_ptr<spdlog::logger>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'GameEngine::Log'
+D:\YouTube\GameEngine\GameEngine\GameEngine\GameEngine\Vendor\spdlog\include\spdlog\details\registry.h(34): message : vea la declaración de 'std::shared_ptr<spdlog::logger>'
+D:\YouTube\GameEngine\GameEngine\GameEngine\scr\GameEngine\Log.h(19,42): warning C4251: 'GameEngine::Log::ClientLoger': class 'std::shared_ptr<spdlog::logger>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'GameEngine::Log'
+D:\YouTube\GameEngine\GameEngine\GameEngine\GameEngine\Vendor\spdlog\include\spdlog\details\registry.h(34): message : vea la declaración de 'std::shared_ptr<spdlog::logger>'
+  Sandbox.vcxproj -> D:\YouTube\GameEngine\GameEngine\GameEngine\bin\Debug-x64\Sandbox\Sandbox.exe
